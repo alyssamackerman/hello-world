@@ -1,13 +1,16 @@
-<h1> Welcome to my first repository! </h1>
+<h3> Welcome to my first repository! </h3>
+
 <hr>
 
 <div class="split left">
   <div class="centered">
-    <h2>Alyssa Ackerman</h2>
+    <h3>Alyssa Ackerman</h3>
     <p> B.B.A. Business Analytics and Information Systems</p>
     <p> Tippie College of Business, Class of 2026</p>
   </div>
 </div>
+
+<hr>
 
 <div class="split right">
   <div class="centered">
@@ -21,5 +24,8 @@
   </div>
 </div>
 
+<hr>
+
+<em> Please feel free to take a look at my technical resume in this file tree! </em>
 
 
